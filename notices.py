@@ -1,0 +1,30 @@
+server_name = '__SERVER__'
+welcome_msg = 'Welcome to ChatRoom, Your Name?'
+invalid_msg = 'Invalid message!'
+invalid_token = 'Token is empty or invalid.'
+usr_exist = 'Please choose another username.'
+usr_not_exist = 'The user you are looking for does not exist.'
+usr_offline = 'The user you are calling is offline.'
+usr_online = 'The user is online.'
+already_in_login = 'Already in login'
+group_already_exist = 'Group already exist.'
+group_not_exist = 'Group Not Exist'
+group_members_empty = 'Can\'t create group because no members'
+
+server_ask_username = 'SeverAskUserName'
+server_heart_heartbeat = 'heartbeat'
+
+kind_heartbeat = "HeartBeat"
+kind_login = 'Login'
+kind_relogin = 'ReLoginWithToken'
+kind_register = 'Register'
+kind_p2p_chat = 'p2p_chat'
+kind_group_chat = 'group_chat'
+kind_get_all_users = 'get_all_user'
+kind_hello = 'Hello'
+kind_exit = 'Exit'
+kind_get_user_status = 'get_a_user_status'
+kind_emotion = 'Mood'
+
+
+info_ok = 'ok'
